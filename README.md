@@ -1,8 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# [💻 Login screen made with NextJs and Tailwind CSS](https://codante.io/mini-projetos/mp-tela-login-tailwind)
 
-## Getting Started
+I had the challenge of creating a login screen using NextJs (since I will still develop new screens, such as sign-up and forgot my password) and to style it, I used the Tailwind CSS framework. The idea is to provide a visually pleasing and responsive experience for users when logging into their systems.
 
-First, run the development server:
+## 🔨 Requirements
+- Create a responsive login screen that adapts to different screen sizes.
+- Use the Tailwind CSS framework to style the elements of the login screen.
+- I also used Next.js to create new screens responsible for the login process, such as sign-up and forgot my password.
+- The login screen must contain the following elements:
+- Input field for the username.
+- Input field for the password. - "Login" button to log in.
+- The main idea was to practice styling with Tailwind CSS.
+- It's in progress, in addition to creating new pages, I'm also going to create input and login validations.
+
+## 🎨 Suggested design
+🔗 [Access the Figma link](https://www.figma.com/file/suvmja6210ggZOO6Cpehjl/Mini-Projeto---A-tela-de-login-mais-bonita-do-mundo?type=design&node-id=0%3A1&t=pnT8xEiypSKTO4Z7-1)
+
+## To run the project:
 
 ```bash
 npm run dev
